@@ -14,4 +14,4 @@
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
 
 #Apply the patches
-git apply $GITHUB_WORKSPACE/patches/*.patch
+#git apply $GITHUB_WORKSPACE/patches/*.patch
